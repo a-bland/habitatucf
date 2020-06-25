@@ -10,17 +10,17 @@
 
 [[main]]
   name = "About"
-  url = "#posts"
+  url = "/about/"
   weight = 20
 
 [[main]]
   name = "Meetings"
-  url = "#projects"
+  url = "/meetings/"
   weight = 30
 
 [[main]]
   name = "Events"
-  url = "https://habitatucf.netlify.app/"
+  url = "/events/"
   weight = 40
 
 [[main]]
@@ -30,16 +30,19 @@
   
 [[main]]
   name = "Advocacy"
-  url = "#featured"
+  url = "/advocacy/"
   weight = 40
  [[main]]
   name = "Officers"
-  url = "#featured"
+  url = "/officers/"
   weight = 40
- 
+[[main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 60 
 [[main]]
   name = "Donate"
-  url = "#contact"
+  url = "/donate/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
