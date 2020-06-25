@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Collegiate"
-  url = "../content/home/collegiate.md"
+  url = "../../content/home/collegiate.md"
   weight = 40
   
 [[main]]
