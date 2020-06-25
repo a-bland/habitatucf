@@ -1,7 +1,7 @@
 +++
 # Officers
-type = "widget_page"
-headless = false  # Homepage is headless, other widget pages are not.
+#type = "widget_page"
+#headless = false  # Homepage is headless, other widget pages are not.
 +++
 +++
 # A "Meet the Team" section created with the People widget.
