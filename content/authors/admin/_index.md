@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Annabel
+title: Annabel Bland
 
 # Username (this should match the folder name)
 authors:
@@ -21,7 +21,7 @@ organizations:
 
 education:
   courses:
-  - major: Computer Science
+    major: Computer Science
     year: Junior
 
 
