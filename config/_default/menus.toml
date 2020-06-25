@@ -9,22 +9,36 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "About"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Meetings"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Events"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "Collegiate"
+  url = "#featured"
+  weight = 40
+  
+[[main]]
+  name = "Advocacy"
+  url = "#featured"
+  weight = 40
+ [[main]]
+  name = "Officers"
+  url = "#featured"
+  weight = 40
+ 
+[[main]]
+  name = "Donate"
   url = "#contact"
   weight = 60
 
