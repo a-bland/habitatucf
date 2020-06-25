@@ -5,6 +5,8 @@
 
 [[main]]
   name = "Home"
+  identifier = "home"
+  hasChildren = true
   url = "https://habitatucf.netlify.app/"
   weight = 10
 
@@ -25,6 +27,7 @@
 
 [[main]]
   name = "Collegiate"
+  parent = "home"
   url = "../../content/home/collegiate.md"
   weight = 40
   
