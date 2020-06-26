@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Public Relations
+role: Secretary
 
 # Organizations/Affiliations
 # organizations:
@@ -45,6 +45,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
  
 user_groups:
-- Directors
+- E-board
 ---
 
