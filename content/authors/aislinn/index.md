@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Aislinn Widmeier
-
+weight: 2
 # Username (this should match the folder name)
 authors:
 - aislinn
