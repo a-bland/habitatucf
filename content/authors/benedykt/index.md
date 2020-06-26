@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Brianna Valera
+title: Benedykt Chrowstowski
 
 # Username (this should match the folder name)
 authors:
-- brianna
+- benedykt
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Public Relations
+role: Education Director
 
 # Organizations/Affiliations
 # organizations:
@@ -25,7 +25,7 @@ interests:
 
  education:
    courses:
-   - course: Biology and Anthropology
+   - course: Mechanical Engineering
      year: Senior
 
 
