@@ -26,24 +26,24 @@
 [[main]]
   name = "Collegiate"
   url = "/collegiate/"
-  weight = 40
+  weight = 50
   
 [[main]]
   name = "Advocacy"
   url = "/advocacy/"
-  weight = 40
+  weight = 60
  [[main]]
   name = "Officers"
   url = "/officers/"
-  weight = 40
+  weight = 70
 [[main]]
   name = "Contact"
   url = "/contact/"
-  weight = 60 
+  weight = 80 
 [[main]]
   name = "Donate"
   url = "/donate/"
-  weight = 60
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
