@@ -117,11 +117,11 @@ weight: 25  # Order that this section will appear.
             color: #99AAB5;
             background-color: #2C2F33;
         }
-        /* .carousel-control-next-icon,
+         .carousel-control-next-icon,
         .carousel-control-prev-icon {
         color: #000000 ;
         font-size: 20px;
-        } */
+        } 
     </style>
 </head>
 
@@ -131,32 +131,33 @@ weight: 25  # Order that this section will appear.
     <li data-target="#social-media" data-slide-to="0" class="active"></li>
     <li data-target="#social-media" data-slide-to="1"></li>
     <li data-target="#social-media" data-slide-to="2"></li>
+    <li data-target="#social-media" data-slide-to="3"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="https://ucfacmw.org/img/headers/Discord-Slider.png" class="d-block w-100">
         <div class="position-absolute mid-right">
-            <a class="btn btn-groupme btn-xl" href="https://groupme.com/join_group/37666615/9he6ev" role="button">
+            <a class="btn btn-groupme btn-xl" href="https://groupme.com/join_group/37666615/9he6ev" target="blank" role="button">
             <i class="fab fa-discord" style="padding-right: 10px;"></i>  CHAT WITH US</a>
         </div> 
     </div>
     <div class="carousel-item">
       <img src="https://ucfacmw.org/img/headers/Facebook-Slider.PNG" class="d-block w-100">
       <div class="position-absolute mid-right">
-            <a class="btn btn-facebook btn-xl" href="https://www.facebook.com/habitatucf/" role="button">
+            <a class="btn btn-facebook btn-xl" href="https://www.facebook.com/habitatucf/" target="blank" role="button">
             <i class="far fa-thumbs-up" style="padding-right: 10px;"></i>  LIKE US</a>
         </div> 
     </div>
     <div class="carousel-item">
       <img src="https://ucfacmw.org/img/headers/Instagram-Slider.PNG" class="d-block w-100">
       <div class="position-absolute mid-right">
-            <a class="btn btn-instagram btn-xl" href="https://www.instagram.com/habitatucf" role="button">
+            <a class="btn btn-instagram btn-xl" href="https://www.instagram.com/habitatucf" target="blank" role="button">
             <i class="fab fa-instagram" style="padding-right: 10px;"></i>  FOLLOW US</a>
         </div> 
     <div class="carousel-item">
       <img src="https://ucfacmw.org/img/headers/Twitter-Slider.PNG" class="d-block w-100">
       <div class="position-absolute mid-right">
-            <a class="btn btn-twitter btn-xl" href="https://www.twitter.com/habitatucf" role="button">
+            <a class="btn btn-twitter btn-xl" href="https://www.twitter.com/habitatucf" target="blank" role="button">
             <i class="fab fa-twitter" style="padding-right: 10px;"></i>  FOLLOW US</a>
         </div> 
     </div>
