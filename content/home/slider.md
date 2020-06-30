@@ -6,7 +6,7 @@ weight: 25  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-#interval = false
+interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -119,7 +119,7 @@ weight: 25  # Order that this section will appear.
         }
          .carousel-control-next-icon,
         .carousel-control-prev-icon {
-        color: #000000 ;
+        color: #000000;
         font-size: 20px;
         } 
     </style>
