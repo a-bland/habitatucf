@@ -65,6 +65,9 @@ weight = 4
 		<div class="panel">
 		  <p>We keep track of attendance in order to reward members who are actively participating, but attendance is not necessary. There is not a mandatory attendance requirement in order to maintain membership. All of the important dates and PowerPoints will be posted on our social media and on our website. Those who come to meetings have priority when it comes to signing up for builds, but if there are extra spots available, we will post it on the Facebook page. Bi-weekly emails will be sent with all the important information you need</p>
 		</div>
+    <button class="accordion">How can I become an officer?</button>
+		<div class="panel">
+		  <p>Every Spring semester, we will hold officer elections. There are eligibility requirements in order to run for your preferred officer position. If you’re interested in becoming an officer or have any specific questions about positions or requirements, please email president@habitatucf.com.</p>
 	  </div>
 	  <div class = "column">
 		<button class="accordion">What is Habitat for Humanity?</button>
@@ -78,16 +81,13 @@ weight = 4
 	  <button class="accordion">Do I have to fill out an application?</button>
 		<div class="panel">
 		  <p>No! The only requirement you need to fulfill to be a member is to pay membership dues.</p>
-		</div>   
-     <button class="accordion">How can I become an officer?</button>
-		<div class="panel">
-		  <p>Every Spring semester, we will hold officer elections. There are eligibility requirements in order to run for your preferred officer position. If you’re interested in becoming an officer or have any specific questions about positions or requirements, please email president@habitatucf.com.</p>
+		</div>  
 		</div>
     <button class="accordion">Can I get approved hours for a scholarship or program?</button>
 		<div class="panel">
 		  <p>Yes! As long as we have documented proof of your involvement in our campus chapter, we would be more than happy to approve your service hours.  Please bring the required forms with you during your service.</p>
 		</div>
-	   </div>
+	  </div>
 	  
 	  <script>
 		var acc = document.getElementsByClassName("accordion");
