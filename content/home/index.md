@@ -1,6 +1,8 @@
----
-title: home
----
++++
+# Homepage
+type = "widget_page"
+headless = true  # Homepage is headless, other widget pages are not.
++++
 <html>
 <main id="home">
     <div class="row" id="mission-statement">
