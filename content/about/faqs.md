@@ -11,6 +11,9 @@ weight = 4
         float: left;
         width: 50%;
         }
+      .body {
+      width: 100%;
+      }
       /* Style the buttons that are used to open and close the accordion panel */
       .accordion {
         background-color: #eee;
