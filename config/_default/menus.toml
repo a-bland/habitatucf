@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
- # url = "https://habitatucf.netlify.app/"
+ url = "/home/"
   weight = 10
 
 [[main]]
