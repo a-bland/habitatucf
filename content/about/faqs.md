@@ -18,13 +18,11 @@ weight = 4
         outline: none;
         transition: 0.4s;
       }
-
       /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the 
       mouse over it (hover) */
       .active, .accordion:hover {
         background-color: #ccc;
       }
-
       /* Style the accordion panel. Note: hidden by default */
       .panel {
         padding: 0 18px;
