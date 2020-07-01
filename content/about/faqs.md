@@ -1,6 +1,6 @@
 +++
 widget = "blank"
-headless = true
+headless = false
 weight = 4
 +++
 <html>
@@ -34,6 +34,7 @@ weight = 4
     </style>
   </head>
 <body>
+  <h1>Frequently Asked Questions</h1>
   <button class="accordion">Meetings: When and Where?</button>
     <div class="panel">
       <p>Check back soon to find out our meeting plans for the Fall 2020 semester.</p>
