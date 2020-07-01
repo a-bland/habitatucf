@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true
-weight: 1
+weight = 1
 +++
 <html>
 <main id="home">
