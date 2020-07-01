@@ -6,6 +6,11 @@ weight = 4
 <html>
   <head>
     <style>
+      /* Make two columns of equal size */
+      .column {
+        float: left;
+        width: 50%;
+        }
       /* Style the buttons that are used to open and close the accordion panel */
       .accordion {
         background-color: #eee;
@@ -32,36 +37,51 @@ weight = 4
       }
     </style>
   </head>
-<body>
-  <h1>Frequently Asked Questions</h1>
-  <button class="accordion">Meetings: When and Where?</button>
-    <div class="panel">
-      <p>Check back soon to find out our meeting plans for the Fall 2020 semester.</p>
-  </div>
-  <button class="accordion">How often do we host builds?</button>
-    <div class="panel">
-      <p>We will typically have about two a month. Come to our meetings or join our Groupme for more information and to sign up to join.</p>
-    </div>
-  <button class="accordion">Are builds always on Saturdays?</button>
-    <div class="panel">
-      <p>No; there are currently weekday builds available, though all builds have a limited number of spots due to social distancing requirements.</p>
-    </div>
-  
-  <script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>
-</body>    
+	<body>
+	  <h1>Frequently Asked Questions</h1>
+	  <div class = "column">
+	  <button class="accordion">Meetings: When and Where?</button>
+		<div class="panel">
+		  <p>Check back soon to find out our meeting plans for the Fall 2020 semester.</p>
+	  </div>
+	  <button class="accordion">How often do we host builds?</button>
+		<div class="panel">
+		  <p>We will typically have about two a month. Come to our meetings or join our Groupme for more information and to sign up to join.</p>
+		</div>
+	  <button class="accordion">Are builds always on Saturdays?</button>
+		<div class="panel">
+		  <p>No; there are currently weekday builds available, though all builds have a limited number of spots due to social distancing requirements.</p>
+		</div>
+	  </div>
+	  <div class = "column">
+		<button class="accordion">Meetings: When and Where?</button>
+		<div class="panel">
+		  <p>Check back soon to find out our meeting plans for the Fall 2020 semester.</p>
+	  </div>
+	  <button class="accordion">How often do we host builds?</button>
+		<div class="panel">
+		  <p>We will typically have about two a month. Come to our meetings or join our Groupme for more information and to sign up to join.</p>
+		</div>
+	  <button class="accordion">Are builds always on Saturdays?</button>
+		<div class="panel">
+		  <p>No; there are currently weekday builds available, though all builds have a limited number of spots due to social distancing requirements.</p>
+		</div>    
+	   </div>
+	  
+	  <script>
+		var acc = document.getElementsByClassName("accordion");
+		var i;
+		for (i = 0; i < acc.length; i++) {
+		  acc[i].addEventListener("click", function() {
+			this.classList.toggle("active");
+			var panel = this.nextElementSibling;
+			if (panel.style.display === "block") {
+			  panel.style.display = "none";
+			} else {
+			  panel.style.display = "block";
+			}
+		  });
+		}
+	</script>
+	</body>    
 </html>
