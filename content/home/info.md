@@ -1,6 +1,7 @@
 +++
 widget = "blank"
 headless = true
+weight: 1
 +++
 <html>
 <main id="home">
@@ -31,5 +32,3 @@ headless = true
 </main>
 </html>
 
-<!-- Shortcode for the Social Media Carousel look at `layouts/shortcodes/carousel` -->
-{{< carousel >}}
