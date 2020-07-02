@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Benedykt Chrowstowski
+title: Benedykt Chrostowski
 
 # Username (this should match the folder name)
 authors:
