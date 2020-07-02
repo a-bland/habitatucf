@@ -1,6 +1,6 @@
 +++
 widget = "blank"
-headless = false
+headless = true
 weight = 4
 +++
 <html>
