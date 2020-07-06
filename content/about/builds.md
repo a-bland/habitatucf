@@ -4,7 +4,7 @@ headless = true
 weight = 30
 +++
 <html>
-<main id="about">
+<main>
     <div class="row">
       <div class="text-center">
         <h1>
