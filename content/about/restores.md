@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true
-weight = 3
+weight = 40
 +++
 <html>
 <main id="about">
