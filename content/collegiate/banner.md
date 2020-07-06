@@ -27,7 +27,6 @@ weight = 10
           Collegiate Challenge
         </h1>
       <br />
-      <br />
         <p>
          Learn more about Habitat for Humanity and our role in developing homes for our neighbors.
         </p>
