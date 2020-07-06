@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true
-weight = 0
+weight = 10
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
