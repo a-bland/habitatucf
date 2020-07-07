@@ -24,7 +24,7 @@ weight = 10
 	<style type="text/css">
 		body {
 			width: 100%;
-			background-color:BlanchedAlmond
+			background-color: #000000
 		}
 	</style>
 </head>
