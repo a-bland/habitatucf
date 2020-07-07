@@ -20,14 +20,6 @@ weight = 10
   
 +++
 <html>
-<head>
-	<style type="text/css">
-		body {
-			width: 100%;
-			background-color:BlanchedAlmond
-		}
-	</style>
-</head>
 <main id="about">
     <div class="row">
       <div class="text-center">
