@@ -47,6 +47,7 @@ weight = 50
     </style>
   </head>
 	<body>
+    <div class="info>
 	  <h1>Frequently Asked Questions</h1>
 	  <div class = "column">
 	  <button class="accordion">Meetings: When and Where?</button>
@@ -87,7 +88,8 @@ weight = 50
 		<div class="panel">
 		  <p>Yes! As long as we have documented proof of your involvement in our campus chapter, we would be more than happy to approve your service hours.  Please bring the required forms with you during your service.</p>
 		</div>
-	  </div>	  
+	  </div>
+     </div>
 	  <script>
 		var acc = document.getElementsByClassName("accordion");
 		var i;
