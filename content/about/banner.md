@@ -20,6 +20,7 @@ weight = 10
   
 +++
 <html>
+<body>
 <main id="banner">
     <div class="row">
       <div class="text-center">
@@ -36,5 +37,6 @@ weight = 10
     </div>
   </div>
 </main>
+</body>
 </html>
 
