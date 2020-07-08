@@ -23,7 +23,7 @@ weight = 20
     </style>
   </head>
 	<body>
-    <div id="info">
+    <div class="info">
      <div class="column">
       <h1>Our Meetings</h1>
       <p>Check back soonor stay tuned to our social media to find out our meeting plans for the Fall 2020 semester.</p>
