@@ -4,16 +4,16 @@ headless = true
 weight = 30
 +++
 <html>
-<main>
-    <div class="row">
-      <div class="text-center">
+<body>
+    <div>
+      <div>
         <h1>
           What is a Build?
         </h1>
       </div>
       <br />
       <br />
-      <div class="text-left">
+      <div id="info">
         <p>
           A Build allows you to immerse yourself in the process of becoming a homeowner through Habitat. We join homeowners in any part of the construction or renovation process during Builds.</p>
         <p>
@@ -26,6 +26,6 @@ weight = 30
     <br />
     <br />
   </div>
-</main>
+</body>
 </html>
 
