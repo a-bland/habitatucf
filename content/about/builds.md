@@ -12,7 +12,6 @@ weight = 30
         </h1>
       </div>
       <br />
-      <br />
       <div class="info">
         <p>
           A Build allows you to immerse yourself in the process of becoming a homeowner through Habitat. We join homeowners in any part of the construction or renovation process during Builds.</p>
@@ -21,9 +20,7 @@ weight = 30
          <p>
           Join us every other Saturday of each month; we carpool from the University of Central Florida campus. In order to attend Builds, you’ll need to become a member of Habitat at UCF.</p>
         <br />
-        <br />
     </div>
-    <br />
     <br />
   </div>
 </body>
