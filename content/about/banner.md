@@ -21,7 +21,7 @@ weight = 10
 +++
 <html>
 <body>
-<main id="banner">
+<main>
     <div class="row">
       <div class="text-center">
         <h1>
