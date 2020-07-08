@@ -21,7 +21,6 @@ weight = 10
 +++
 <html>
 <body>
-<body>
     <div class="banner">
       <div>
         <h1>
@@ -35,6 +34,5 @@ weight = 10
         </p>
     </div>
   </div>
-</main>
 </body>
 </html>
