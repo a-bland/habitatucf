@@ -6,12 +6,11 @@ weight = 40
 <html>
 <body>
     <div class="info">
-      <div">
+      <div>
         <h1>
           What is a Restore?
         </h1>
       </div>
-      <br />
       <br />
       <div>
         <p>
@@ -21,9 +20,7 @@ weight = 40
          <p>
           Carpools are provided whenever we have a volunteer event. If you’d like to participate in our restores, you’re always welcome! The only requirement is becoming a member.</p>
         <br />
-        <br />
     </div>
-    <br />
     <br />
   </div>
 </main>
