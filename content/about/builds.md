@@ -13,7 +13,7 @@ weight = 30
       </div>
       <br />
       <br />
-      <div id="info">
+      <div class="info">
         <p>
           A Build allows you to immerse yourself in the process of becoming a homeowner through Habitat. We join homeowners in any part of the construction or renovation process during Builds.</p>
         <p>
