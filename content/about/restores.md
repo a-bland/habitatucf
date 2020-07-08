@@ -4,16 +4,16 @@ headless = true
 weight = 40
 +++
 <html>
-<main id="about">
-    <div class="row">
-      <div class="text-center">
+<body>
+    <div class="info">
+      <div">
         <h1>
           What is a Restore?
         </h1>
       </div>
       <br />
       <br />
-      <div class="text-left">
+      <div>
         <p>
           We volunteer occasionally with the ReStore program of Habitat for Humanity. These stores sell used furniture, appliances, home accessories, building materials, and other home goods at discounted prices. Anyone is welcome to use them. The proceeds are used to help build strength, stability, self-reliance, and shelter in communities around us.</p>
         <p>
