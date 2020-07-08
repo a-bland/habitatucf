@@ -47,7 +47,7 @@ weight = 50
     </style>
   </head>
 	<body>
-    <div class="info>
+    <div class="info">
 	  <h1>Frequently Asked Questions</h1>
 	  <div class = "column">
 	  <button class="accordion">Meetings: When and Where?</button>
