@@ -114,7 +114,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 # FIGURE OUT GROUPME PIC
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", style="color:#000000", name = "DM Us", link = "https://twitter.com/habitatucf", target="blank"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Us", link = "https://twitter.com/habitatucf", target="blank"},
   {icon = "facebook", icon_pack = "fab", name = "Like Us", link = "https://facebook.com/habitatucf", target="blank"},
  {icon = "instagram", icon_pack = "fab", name = "Follow Us", link = "https://instagram.com/habitatucf", target="blank"},
   {icon = "groupme", icon_pack = "fas", name = "Talk to Us", link = "https://groupme.com/join_group/37666615/9he6ev", target="blank"},
