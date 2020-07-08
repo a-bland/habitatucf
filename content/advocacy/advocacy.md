@@ -18,7 +18,7 @@ weight = 1
         <h1>Lobbying Legislators</h1>
         <br />
         <p>
-          In Florida, we have something called the Sadowski Fund, also known as the Affordable Housing Trust Fund. It’s funded through a tax on stamps for real estate documents, and is expected to raise $338 million in the coming fiscal year. However, much of that money designated for affordable housing gets taken by legislators for other purposes, despite <a href="https://www.orlandoweekly.com/Blogs/archives/2019/03/15/orlando-is-literally-the-worst-place-in-the-country-right-now-for-affordable-housing" target="blank" color="#0000ff">how much we need it.</a> Together with SGA’s Government Affairs and Policy Committee and local lawmakers, we’re hoping to convince the state legislature to protect the Sadowski fund.</p>
+          In Florida, we have something called the Sadowski Fund, also known as the Affordable Housing Trust Fund. It’s funded through a tax on stamps for real estate documents, and is expected to raise $338 million in the coming fiscal year. However, much of that money designated for affordable housing gets taken by legislators for other purposes, despite <a href="https://www.orlandoweekly.com/Blogs/archives/2019/03/15/orlando-is-literally-the-worst-place-in-the-country-right-now-for-affordable-housing" target="blank" style="color:#0000ff">how much we need it.</a> Together with SGA’s Government Affairs and Policy Committee and local lawmakers, we’re hoping to convince the state legislature to protect the Sadowski fund.</p>
     </div>
   </div>
 </body>
