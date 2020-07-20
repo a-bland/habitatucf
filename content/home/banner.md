@@ -1,6 +1,4 @@
 +++
-widget = "blank"
-headless = true
 weight = 10
 [design.background]
   # Apply a background color, gradient, or image.
