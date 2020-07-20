@@ -1,4 +1,5 @@
 +++
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -29,7 +30,7 @@
       <br />
       <div class="text-left">
         <p>
-          We are a campus chapter of the international organization Habitat for Humanity, a nonprofit organization that helps families build and improve places to call home. We build strength, stability, and self-reliance through shelter. We believe affordable housing plays a critical role in strong and stable communities.
+          INDEX ONEWe are a campus chapter of the international organization Habitat for Humanity, a nonprofit organization that helps families build and improve places to call home. We build strength, stability, and self-reliance through shelter. We believe affordable housing plays a critical role in strong and stable communities.
         </p>
     </div>
   </div>
