@@ -5,7 +5,7 @@ name = "Habitat"
 light = true
 
 # Primary
-primary = "#000000"
+primary = "#ffffff"
 
 # Menu
 menu_primary = "#54B948"
